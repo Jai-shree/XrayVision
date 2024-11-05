@@ -1,6 +1,3 @@
-%%capture
-!pip install sentence-transformers
-
 import bs4
 from langchain import hub
 from langchain_community.document_loaders import WebBaseLoader
